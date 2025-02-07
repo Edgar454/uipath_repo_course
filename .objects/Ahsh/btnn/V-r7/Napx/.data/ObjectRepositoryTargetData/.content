@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="axH9nhDRxEaDIibBQcQfBg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="89295c69-cb41-478b-945c-861ac983ce48" CvElementArea="14, 96, 19, 19" CvType="CheckBox" DesignTimeRectangle="14, 96, 19, 19" DesignTimeScaleFactor="1.25" ElementType="CheckBox" Guid="337e2cd8-1ebf-4dc3-9e31-aec9d6d4c88f" ScopeSelectorArgument="&lt;wnd app='excel.exe' cls='NUIDialog' title='Créer un tableau' /&gt;" SearchSteps="CV" TargetType="ComputerVisionBased" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="89295c69-cb41-478b-945c-861ac983ce48" CvTextArea="39, 100, 210, 15" CvTextArgument="Mon tableau comporte des en-têtes" CvType="Text" DesignTimeRectangle="38, 100, 211, 15" ElementType="Text" Guid="864026a6-5319-4fff-b0e0-4d2373e5abfd" SearchSteps="CV" TargetType="ComputerVisionBased" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="73a431588dd8e9362a99249e501ef34c.png" xmlns="">0lla7Gkv7gk-OZmRmiMEJow</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Check</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

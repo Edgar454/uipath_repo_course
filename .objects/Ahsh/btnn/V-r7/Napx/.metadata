@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Mon tableau comporte de…",
+  "Type": "Element",
+  "TaxonomyType": "Checkbox",
+  "Id": "NapxLxm6F06a8xrcuXk22Q",
+  "Reference": "NUB0PW41_UGjVyJQOKxOCg/NapxLxm6F06a8xrcuXk22Q",
+  "ParentRef": "NUB0PW41_UGjVyJQOKxOCg/V-r7Z4CXDE6FlMusYZtVug",
+  "Created": "2025-02-06T06:49:05.1549827Z",
+  "Updated": "2025-02-06T06:49:05.1549827Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
